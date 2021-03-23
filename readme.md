@@ -9,4 +9,4 @@
 
 
 
-[![level120](https://github-readme-stats.vercel.app/api/top-langs/?username=level120&exclude_repo=Android_MusicPlayer,Vote_of_LeeLab,Infomation_Security,Capstone,Code,ClassRoom,Leaders&langs_count=10&layout=compact&hide=java,html,css,jupyter notebook)](https://github.com/level120)
+[![level120](https://github-readme-stats.vercel.app/api/top-langs/?username=level120&exclude_repo=Android_MusicPlayer,Vote_of_LeeLab,Infomation_Security,Capstone,Code,ClassRoom,Leaders&langs_count=10&layout=compact&hide=java,html,css)](https://github.com/level120)
