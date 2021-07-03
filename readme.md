@@ -21,16 +21,16 @@ I am a software engineer in the Republic of Korea and I'm interested in windows 
 
 <br/>
 
-### 📫 knowledge
+### 📫 Knowledge
 
 <div sttyle='float:left'>
-<img style="margin: 5px" src="https://filestore.community.support.microsoft.com/api/images/a7899ec5-bd4c-4b38-9233-173397ef577f" alt="c#" height="45" />
-<img style="margin: 5px" src="https://developer.microsoft.com/ko-kr/media/dotnet-logo.svg" alt="dotnet" height="45" />
-<img style="margin: 5px" src="https://developer.microsoft.com/ko-kr/media/windows.svg" alt="Windows" height="45" />
-<img style="margin: 5px" src="https://developer.microsoft.com/ko-kr/media/visualstudio_purple_logo.png" alt="vs" height="45" />
-<img style="margin: 5px" src="https://docs.microsoft.com/ko-kr/windows/images/docker-logo.png" alt="docker" height="45" />
-<img style="margin: 5px" src="https://devblogs.microsoft.com/wp-content/uploads/sites/30/2018/09/Powershell_256.png" alt="powershell" height="45" />
-<img style="margin: 5px" src="https://resources.jetbrains.com/storage/products/resharper/img/meta/resharper_logo_300x300.png" alt="powershell" height="45" />
+<img style="margin: 10px" src="https://filestore.community.support.microsoft.com/api/images/a7899ec5-bd4c-4b38-9233-173397ef577f" alt="c#" height="45" />
+<img style="margin: 10px" src="https://developer.microsoft.com/ko-kr/media/dotnet-logo.svg" alt="dotnet" height="45" />
+<img style="margin: 10px" src="https://developer.microsoft.com/ko-kr/media/windows.svg" alt="Windows" height="45" />
+<img style="margin: 10px" src="https://developer.microsoft.com/ko-kr/media/visualstudio_purple_logo.png" alt="vs" height="45" />
+<img style="margin: 10px" src="https://docs.microsoft.com/ko-kr/windows/images/docker-logo.png" alt="docker" height="45" />
+<img style="margin: 10px" src="https://devblogs.microsoft.com/wp-content/uploads/sites/30/2018/09/Powershell_256.png" alt="powershell" height="45" />
+<img style="margin: 10px" src="https://resources.jetbrains.com/storage/products/resharper/img/meta/resharper_logo_300x300.png" alt="powershell" height="45" />
 </div>
 
 <br/>
