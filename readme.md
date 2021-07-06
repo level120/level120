@@ -9,14 +9,14 @@ I am a software engineer in the Republic of Korea and I'm interested in windows 
 <br/>
 
 ### 💫 Experience
-- **???** - ??? *(2021.07 ~)*
+- **[Mangoslab](http://www.mangoslab.com/)** - Mobile application developer using cross platform *(2021.07 ~)*
 - **[Penta-Cube](http://www.penta-cube.com)** - EDA solution and software engineer on part of a schematic *(2019.02 - 2021.07)*
 
 <br/>
 
 ### ✨ Summary
 
-- I'm currently working on ???.
+- I'm currently working on the Mangoslab
 - I'm interested in `C#`. `.Net` solutions and `Windows`.
 
 <br/>
