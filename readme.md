@@ -8,9 +8,11 @@ I am a software engineer in the Republic of Korea and I'm interested in windows 
 
 <br/>
 
-### 💫 Experience
-- **[Mangoslab](http://www.mangoslab.com/)** - Mobile application developer using cross platform *(2021.07 ~)*
-- **[Penta-Cube](http://www.penta-cube.com)** - EDA solution and software engineer on part of a schematic *(2019.02 - 2021.07)*
+### 💫 Work Experience
+- **[Open Source Contributon Academy]** The Open Source Contributon Academye activity. *(2021.08. ~)*
+- **[.Net Conf Mini 2108](https://youtu.be/uYobpnwSdik)** .Net Conf Mini 2108 Speaker that .Net conference in .NetDev Group. *(2021.08.15.)*
+- **[Mangoslab](http://www.mangoslab.com/)** - Mobile application developer using cross platform. *(2021.07. ~)*
+- **[Penta-Cube](http://www.penta-cube.com)** - EDA solution and software engineer on part of a schematic. *(2019.02. - 2021.07.)*
 
 <br/>
 
