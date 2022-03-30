@@ -10,7 +10,7 @@ I am a software engineer in the Republic of Korea and I'm interested in windows 
 
 ### 💫 Experience
 - **[.Net Conf 2022 x Seoul](https://github.com/dotnetdev-kr/dotNETConf-Presentation/tree/main/2022/dotNETConf#net-6%EC%97%90%EC%84%9C-%EB%8F%84%EC%9E%85%EC%98%88%EC%A0%95%EC%9D%B8-maui-%EA%B8%B0%EC%88%A0-%EC%86%8C%EA%B0%9C-%EB%B0%8F-xamarin%EA%B3%BC%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0---%EB%B0%95%EA%B5%AC%EC%82%BC)** .Net Conf 2022 x Seoul Speaker that .NET conference in .NetDev KR Group. *(2022.01.22)*
-- **[Open Source Contributon Academy]** The Open Source Contributon Academye activity. *(2021.08. ~)*
+- **[Open Source Contributon Academy]** The Open Source Contributon Academye activity. *(2021.08. ~ 2021.12.)*
 - **[.Net Conf Mini 2108](https://youtu.be/uYobpnwSdik)** .Net Conf Mini 2108 Speaker that .NET conference in .NetDev KR Group. *(2021.08.15.)*
 - **[Mangoslab](http://www.mangoslab.com/)** - Mobile application developer using cross platform. *(2021.07. ~)*
 - **[Penta-Cube](http://www.penta-cube.com)** - EDA solution and software engineer on part of a schematic. *(2019.02. - 2021.07.)*
