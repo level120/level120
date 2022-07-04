@@ -9,6 +9,7 @@ I am a software engineer in the Republic of Korea and I'm interested in windows 
 <br/>
 
 ### 💫 Experience
+- **[NCSOFT](https://kr.ncsoft.com/)** - Client Developer. *(2022.07.04. ~ )*
 - **[Open Source Contributon Academy - Mentor](https://open-up.notion.site/bfdb2f1732a24838af0d90bcd6f99154)** *(2022.05.21.~ 2022.05.22.)*
 - **[Local developer meet up - Cloud Bandwagon](https://festa.io/events/2296)** - Chun-cheon developer meet-up speaker *(2022.05.20.)*
 - **[Open Source Contributon Academy - Mentor](https://open-up.notion.site/c9a649fe964241c8b0c2fd42331c7e95)** *(2022.04.09.~ 2022.04.10.)*
