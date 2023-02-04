@@ -17,7 +17,7 @@ I am a software engineer in the Republic of Korea and I'm interested in windows 
 - **[Local developer meet up - Cloud Bandwagon](https://festa.io/events/2296)** - Chun-cheon developer meet-up speaker *(2022.05.20.)*
 - **[Open Source Contributon Academy - Mentor](https://open-up.notion.site/c9a649fe964241c8b0c2fd42331c7e95)** *(2022.04.09.~ 2022.04.10.)*
 - **[.NET Conf 2022 x Seoul - .NET Dev](https://github.com/dotnetdev-kr/dotNETConf-Presentation/tree/main/2022/dotNETConf#net-6%EC%97%90%EC%84%9C-%EB%8F%84%EC%9E%85%EC%98%88%EC%A0%95%EC%9D%B8-maui-%EA%B8%B0%EC%88%A0-%EC%86%8C%EA%B0%9C-%EB%B0%8F-xamarin%EA%B3%BC%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0---%EB%B0%95%EA%B5%AC%EC%82%BC)** .NET Conf 2022 x Seoul Speaker that .NET conference in .NET Dev KR Group. *(2022.01.22.)*
-- **[.NET Conf Mini 2108 - .NET Dev](https://youtu.be/uYobpnwSdik)** .NET Conf Mini 2108 Speaker that .NET conference in .NET Dev KR Group. *(2021.08.15.)*
+- **[.NET Conf Mini 21.08 - .NET Dev](https://youtu.be/uYobpnwSdik)** .NET Conf Mini 21.08 Speaker that .NET conference in .NET Dev KR Group. *(2021.08.15.)*
 
 <br/>
 
