@@ -23,8 +23,9 @@ I am a software engineer in the Republic of Korea and I'm interested in windows 
 
 ### ✨ Summary
 
-- I'm currently working on the Mangoslab
-- I'm interested in `C#`. `.NET` solutions and `Windows`.
+- I'm currently working on the [NCSOFT](https://kr.ncsoft.com)
+- I'm interesting in `C#`. `.NET` solutions and DevOps with `Azure`.
+- I like dev:rel.
 
 <br/>
 
