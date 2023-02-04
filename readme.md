@@ -10,15 +10,15 @@ I am a software engineer in the Republic of Korea and I'm interested in windows 
 
 ### 💫 Experience
 - **[Daegu Developer Day - Haedal Programming Inc](https://festa.io/events/3100)** - Daegu developer meet-up speaker *(2023.02.18.)*
-- **[.NET Conf 2023 X Seoul - .NetDev](https://www.dotnetconf.kr/2023)** - .NET Conf local event host *(2023.01.19.)*
+- **[.NET Conf 2023 X Seoul - .NET Dev](https://www.dotnetconf.kr/2023)** - .NET Conf local event host *(2023.01.19.)*
 - **[Local developer meet up - Cloud Bandwagon](https://festa.io/events/2695)** - Jinju developer meet-up speaker *(2022.11.03.)*
 - **[NCSOFT](https://kr.ncsoft.com/)** - Client Developer. *(2022.07.04. ~ )*
 - **[Open Source Contributon Academy - Mentor](https://www.oss.kr/contribution_22_projects/show/a76f70c7-fbad-4e69-889d-962f6189c781)** *(2022.07.04.~ 2022.10.14.)*
 - **[Open Source Contributon Academy - Mentor](https://open-up.notion.site/bfdb2f1732a24838af0d90bcd6f99154)** *(2022.05.21.~ 2022.05.22.)*
 - **[Local developer meet up - Cloud Bandwagon](https://festa.io/events/2296)** - Chun-cheon developer meet-up speaker *(2022.05.20.)*
 - **[Open Source Contributon Academy - Mentor](https://open-up.notion.site/c9a649fe964241c8b0c2fd42331c7e95)** *(2022.04.09.~ 2022.04.10.)*
-- **[.NET Conf 2022 x Seoul - .NetDev](https://github.com/dotnetdev-kr/dotNETConf-Presentation/tree/main/2022/dotNETConf#net-6%EC%97%90%EC%84%9C-%EB%8F%84%EC%9E%85%EC%98%88%EC%A0%95%EC%9D%B8-maui-%EA%B8%B0%EC%88%A0-%EC%86%8C%EA%B0%9C-%EB%B0%8F-xamarin%EA%B3%BC%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0---%EB%B0%95%EA%B5%AC%EC%82%BC)** .NET Conf 2022 x Seoul Speaker that .NET conference in .NETDev KR Group. *(2022.01.22.)*
-- **[.NET Conf Mini 2108 - .NetDev](https://youtu.be/uYobpnwSdik)** .NET Conf Mini 2108 Speaker that .NET conference in .NETDev KR Group. *(2021.08.15.)*
+- **[.NET Conf 2022 x Seoul - .NET Dev](https://github.com/dotnetdev-kr/dotNETConf-Presentation/tree/main/2022/dotNETConf#net-6%EC%97%90%EC%84%9C-%EB%8F%84%EC%9E%85%EC%98%88%EC%A0%95%EC%9D%B8-maui-%EA%B8%B0%EC%88%A0-%EC%86%8C%EA%B0%9C-%EB%B0%8F-xamarin%EA%B3%BC%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0---%EB%B0%95%EA%B5%AC%EC%82%BC)** .NET Conf 2022 x Seoul Speaker that .NET conference in .NET Dev KR Group. *(2022.01.22.)*
+- **[.NET Conf Mini 2108 - .NET Dev](https://youtu.be/uYobpnwSdik)** .NET Conf Mini 2108 Speaker that .NET conference in .NET Dev KR Group. *(2021.08.15.)*
 - **[Mangoslab](http://www.mangoslab.com/)** - Mobile application developer using cross platform. *(2021.07.05. ~ 2022.06.30.)*
 - **[Penta-Cube](http://www.penta-cube.com)** - EDA solution and software engineer on part of a schematic. *(2019.02. - 2021.07.)*
 
