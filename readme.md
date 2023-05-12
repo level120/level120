@@ -9,6 +9,7 @@ I am a software engineer in the Republic of Korea and I'm interested in windows 
 <br/>
 
 ### 💫 Experience
+- **[Local developer meet up - Cloud Bandwagon](https://festa.io/events/3447)** - Daejeon developer meet-up speaker *(2023.05.12.)*
 - **[On.NET Korean Session - dotnet](https://youtu.be/i8tMiWHK05M)** - On.NET Korean session on the official **dotnet** channel *(2023.03.30.)*
 - **[Daegu Developer Day - Haedal Programming Inc](https://festa.io/events/3100)** - Daegu developer meet-up speaker *(2023.02.18.)*
 - **[.NET Conf 2023 X Seoul - .NET Dev](https://www.dotnetconf.kr/2023)** - .NET Conf local event host *(2023.01.19.)*
