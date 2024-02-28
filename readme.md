@@ -9,6 +9,7 @@ I am a software engineer in the Republic of Korea and I'm interested in windows 
 <br/>
 
 ### 💫 Experience
+- **[.NET Aspire Workshop 2024 KR](https://onoffmix.com/event/293617)** - .NET Aspire Workshop 2024 speaker with the BlazorKorea group *(2024.02.22.)*
 - **[Blazor Workshop 2023 KR](https://www.onoffmix.com/event/283192)** - Blazor Workshop 2023 speaker with the BlazorKorea group *(2023.09.23.)*
 - **[NCDP23 - NCSOFT Corp.](https://www.facebook.com/gusam.park/posts/pfbid0bNFrejvvTkD36gbjepgDdJaVeE3PQX8YAjv6MeVT18iNeeNt8GAqeqNNHKGEDWoVl)** - NC Developers Party 23 speaker *(2023.06.21.)*
 - **[Local developer meet up - Cloud Bandwagon](https://festa.io/events/3447)** - Daejeon developer meet-up speaker *(2023.05.12.)*
